@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @LeonelData
+- 👀 I’m interested in Data Analysis
+- 🌱 I’m currently learning SQL/Language R and Database.
+- 💞️ I’m looking to collaborate on Data Analysis.
+- 📫 leonel.santos.spbr@gmail.com
