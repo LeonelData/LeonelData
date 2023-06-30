@@ -5,7 +5,7 @@
 
 - 💬 Me pergunte sobre **Excel, Power BI, Análise de dados, Business Analytics.**
 
-- 📫 Você me acha atráves pelo e-mail **leonel.santos.spbr@gmail.com**
+- 📫 Você me acha pelo e-mail **leonel.santos.spbr@gmail.com**
 
 - 📄 Você pode verificar minhas experiências e cursos no Linkedin [https://www.linkedin.com/in/leonel-de-carvalho-b25299195/](https://www.linkedin.com/in/leonel-de-carvalho-b25299195/)
 
